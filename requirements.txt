@@ -1,10 +1,7 @@
-import os
-import cv2
-import numpy as np
-from sklearn.model_selection import train_test_split
-import matplotlib.pyplot as plt
-import tensorflow as tf
-from tensorflow.keras.models import Model
-from tensorflow.keras.layers import Input, Conv2D, MaxPooling2D, UpSampling2D, Conv2DTranspose
-from tensorflow.keras.callbacks import EarlyStopping
-from skimage.metrics import structural_similarity as ssim
+ipykernel
+numpy>=2.0.0
+matplotlib
+scikit-learn
+scikit-image
+opencv-python
+tensorflow
