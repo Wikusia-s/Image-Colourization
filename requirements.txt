@@ -5,3 +5,5 @@ scikit-learn
 scikit-image
 opencv-python
 tensorflow
+tabulate
+pandas
